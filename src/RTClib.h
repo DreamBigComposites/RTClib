@@ -22,6 +22,7 @@
 #ifndef _RTCLIB_H_
 #define _RTCLIB_H_
 
+#include <Adafruit_BusIO.h>
 #include <Adafruit_I2CDevice.h>
 #include <Arduino.h>
 
